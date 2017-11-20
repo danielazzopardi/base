@@ -1,0 +1,18 @@
+{
+  "name": "base",
+  "description": "Base project",
+  "main": "index.js",
+  "authors": [
+    "Daniel Azzopardi"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/danielazzopardi/base",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

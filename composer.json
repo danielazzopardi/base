@@ -1,0 +1,15 @@
+{
+    "name": "danazz09/base",
+    "authors": [
+        {
+            "name": "Daniel Azzopardi",
+            "email": "daniel.azzopardi@catchoftheday.com.au"
+        }
+    ],
+    "require": {
+        "erusev/parsedown": "~1.0"
+    },
+    "config": {
+        "vendor-dir": "composer_vendor"
+    }
+}
